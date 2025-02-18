@@ -1,0 +1,67 @@
+Web FAMGUI
+
+# PowerShell specific
+*.ps1.bak
+*.psm1.bak
+*.psd1.bak
+*.ps1xml.bak
+*.ps1.tmp
+*.psm1.tmp
+*.psd1.tmp
+*.ps1xml.tmp
+
+# PowerShell logs and debug files
+*.log
+*.txt
+debug/
+logs/
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+.DS_Store
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+.history/
+
+# PowerShell Studio
+*.psproj
+*.psprojs
+*.psbuild
+*.psbuild.err
+*.psbuild.out
+
+# Temporary and backup files
+*~
+*.bak
+*.tmp
+temp/
+tmp/
+
+# Test results and coverage
+TestResults/
+coverage/
+*.coverage
+*.trx
+
+# Environment and configuration files
+.env
+*.config
+config.json
+credentials.json
+secrets.json
+
+# Output and build directories
+out/
+build/
+dist/
+
+# User-specific files that might contain sensitive data
+*_personal.ps1
+*_credentials.ps1
+*_config.ps1 
