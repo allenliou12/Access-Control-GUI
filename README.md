@@ -68,6 +68,15 @@ The tool includes error handling for:
 - Missing permissions
 - Empty ACL lists
 
+## Future Features
+
+- 🔧 Permission Modification (Coming in V2)
+  - Direct access right editing through the GUI
+  - Batch permission updates
+  - Change logging and audit trail
+- 📋 Enhanced Reporting
+  - Export permission reports to various formats
+
 ## Limitations
 
 - Only scans the specified directory and its immediate subdirectories
