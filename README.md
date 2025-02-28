@@ -102,7 +102,7 @@ The tool includes error handling for:
 
 ## Disclaimer
 
-This project is a portfolio piece demonstrating my automation and software development capabilities. Please note:
+This project is a portfolio piece demonstrating automation and software development capabilities using standard Windows APIs and PowerShell commands. Please note:
 
 - This is an educational project and should be used responsibly
 - The code is provided "as-is" without any warranties or guarantees
