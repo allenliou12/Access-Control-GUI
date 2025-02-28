@@ -116,7 +116,7 @@ $TextBox = $Window.FindName("TextBox")
 $LoadButton = $Window.FindName("LoadButton")
 $TreeView = $Window.FindName("TreeView")
 
-# (Optional) Set a default path
+#Set a default path
 $TextBox.Text = "Z:\"
 
 # Wire up the Load button's click event

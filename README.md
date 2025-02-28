@@ -77,6 +77,7 @@ The tool includes error handling for:
 - 📋 Enhanced Reporting
   - Export permission reports to various formats
 
+- Might consider creating a web interface
 ## Limitations
 
 - Only scans the specified directory and its immediate subdirectories
