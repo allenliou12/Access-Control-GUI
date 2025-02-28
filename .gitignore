@@ -1,4 +1,7 @@
 Web FAMGUI
+sandbox.ps1
+Test_With_Apply.ps1
+test_with_GUI.ps1
 
 # PowerShell specific
 *.ps1.bak
