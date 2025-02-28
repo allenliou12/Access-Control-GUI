@@ -38,11 +38,14 @@ A PowerShell-based graphical user interface tool for managing and viewing file s
 ## Interface Guide
 
 The interface consists of three main sections:
+
 1. **Control Panel**
+
    - Text box for directory path input
    - Load button to initiate scanning
 
 2. **Header Row**
+
    - Name: Identity or group name
    - Permission: Granted access rights
    - AccessType: Allow/Deny
@@ -55,6 +58,7 @@ The interface consists of three main sections:
 ## Permissions Display
 
 Each folder entry shows:
+
 - 👤 Identity Reference (User/Group)
 - 🔑 Permission Level
 - ✅ Access Control Type
@@ -63,6 +67,7 @@ Each folder entry shows:
 ## Error Handling
 
 The tool includes error handling for:
+
 - Invalid directory paths
 - Inaccessible directories
 - Missing permissions
@@ -75,9 +80,11 @@ The tool includes error handling for:
   - Batch permission updates
   - Change logging and audit trail
 - 📋 Enhanced Reporting
+
   - Export permission reports to various formats
 
 - Might consider creating a web interface
+
 ## Limitations
 
 - Only scans the specified directory and its immediate subdirectories
@@ -93,12 +100,26 @@ The tool includes error handling for:
 4. Push to the branch
 5. Create a Pull Request
 
+## Disclaimer
+
+This project is a portfolio piece demonstrating my automation and software development capabilities. Please note:
+
+- This is an educational project and should be used responsibly
+- The code is provided "as-is" without any warranties or guarantees
+- Users must ensure they have appropriate permissions and authorization before scanning or modifying any file systems
+- The developer is not responsible for any unintended modifications to file permissions or access controls
+- All sensitive information and company-specific implementations have been removed
+- This is a generic implementation with no proprietary business logic
+- The project should be used for learning and educational purposes only
+- Always obtain proper authorization before deploying in a production environment
+- Regular backups should be maintained before making any permission changes
+- Users should thoroughly test in a non-production environment first
+
 ## Security Considerations
 
 - The tool requires appropriate permissions to access directories
 - Be cautious when examining sensitive directory structures
 - No credentials or sensitive data are stored by the application
-
 
 ## Author
 
@@ -113,6 +134,7 @@ Liou Jun Yi
 ## Support
 
 For issues, questions, or contributions, please:
+
 1. Open an issue in the repository
 2. Contact me at allenliou12@gmail.com
 
